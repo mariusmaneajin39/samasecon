@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Samasecon</title>
+  </head>
+  <body>
+    <h1>Bun venit pe Samasecon.com!</h1>
+    <p>Site în construcție, revenim în curând.</p>
+  </body>
+</html>
