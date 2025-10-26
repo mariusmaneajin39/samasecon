@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <path fill="#000000" d="M128 0C57.3 0 0 57.3 0 128s57.3 128 128 128 128-57.3 128-128S198.7 0 128 0zm0 230c-56.4 0-102-45.6-102-102S71.6 26 128 26s102 45.6 102 102-45.6 102-102 102z"/>
+  <text x="50%" y="56%" text-anchor="middle" fill="#000" font-size="88" font-family="sans-serif">様</text>
+  <text x="50%" y="82%" text-anchor="middle" fill="#000" font-size="36" font-family="sans-serif">ASECON</text>
+</svg>
